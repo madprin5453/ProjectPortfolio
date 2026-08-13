@@ -173,7 +173,7 @@
             font-size: clamp(80px, 12vw, 160px);
             line-height: 0.78;
             font-weight: 900;
-            letter-spacing: -5px;
+            letter-spacing: -3px;
         }
 
         .hero-title span {
